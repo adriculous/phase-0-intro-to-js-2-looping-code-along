@@ -2,7 +2,7 @@
 
 // Make some thank you cards to the guests
 
-const guest = ["Guadalupe", "Ollie", "Aki"];
+// const guest = ["Guadalupe", "Ollie", "Aki"];
 const message = [];
 
 function writeCards(guest, occasion) {
