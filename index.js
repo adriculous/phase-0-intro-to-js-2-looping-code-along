@@ -12,7 +12,7 @@ function writeCards(guest, occasion) {
   return message;
 }
 
-// this will also work below/pass the npm test with only one argument:
+// this will also work below/pass the npm test with only one argument?? Maybe npm test didn't check to see if there should be two parameters instead of one? Below was my first solution, commented out when I learned that I have to have two parameters (from the classmates)
 
 /* function writeCards(guest) {
     for (let i = 0; i < guest.length; i++) {
